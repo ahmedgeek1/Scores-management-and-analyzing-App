@@ -1,0 +1,18 @@
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\bin\Debug\Assessment8A.exe.config
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\bin\Debug\Assessment8A.exe
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\bin\Debug\Assessment8A.pdb
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.csprojResolveAssemblyReference.cache
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.Properties.Resources.resources
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.csproj.GenerateResource.Cache
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.exe
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.pdb
+c:\users\24210285\documents\visual studio 2015\Projects\Assessment8A\Assessment8A\obj\Debug\Assessment8A.FormScoresAnalysis.resources
+H:\Assessment8A\Assessment8A\bin\Debug\Assessment8A.exe.config
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.exe
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.pdb
+H:\Assessment8A\Assessment8A\bin\Debug\Assessment8A.exe
+H:\Assessment8A\Assessment8A\bin\Debug\Assessment8A.pdb
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.csprojResolveAssemblyReference.cache
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.FormScoresAnalysis.resources
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.Properties.Resources.resources
+H:\Assessment8A\Assessment8A\obj\Debug\Assessment8A.csproj.GenerateResource.Cache
